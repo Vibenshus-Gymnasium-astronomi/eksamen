@@ -1,4 +1,4 @@
 Dette repo indeholder materialet til en præsentation om
 mundtlig eksamen i astronomi C på Vibenshus Gymnasium.
 
-Præsentationen kan findes her: [[https://Vibenshus-Gymnasium-astronomi.github.io/eksamen]].
+Præsentationen kan findes her: [[https://vibenshus-gymnasium-astronomi.github.io/eksamen]].
