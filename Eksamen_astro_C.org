@@ -1,0 +1,118 @@
+#+title: Eksamen i Astronomi C
+#+subtitle: 
+#+author: Vibenshus Gymnasium
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+reveal_title_slide_background:
+#+reveal_default_slide_background:
+#+reveal_extra_options: slideNumber:"c",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+# #+reveal_extra_attr: style="color:red"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+* Det er læreplanen, som gælder
+- De følgende slides vil hjælpe jer til at forstå eksamen i astronomi C, men det er altid læreplanen for faget, som er gældende.
+- Læreplanen for astronomi C kan I finde her: [[https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/valgfag/astronomi-c-valgfag-august-2017.pdf]]
+
+* Prøveformen
+#+reveal_html: <div style="font-size: 60%;">
+Fra læreplanen
+
+#+begin_quote
+Der afholdes en mundtlig prøve på grundlag af en bredt formuleret opgave inden for de områder, holdet har arbejdet med. Opgaverne skal tilsammen i al væsentlighed dække de faglige mål, kernestoffet og det supplerende stof. Opgaverne skal være
+kendte af eksaminanderne inden prøven. Den enkelte opgave må anvendes højst tre gange på samme hold.
+
+Eksaminationstiden er ca. 24 minutter pr. eksaminand. Der gives ca. 24 minutters forberedelsestid.
+
+Eksaminationen former sig som en faglig samtale mellem eksaminand og eksaminator. Eksaminandens astronomiske portfolio skal inddrages i eksaminationen, når det er relevant for opgaven.
+#+end_quote
+
+* Prøveformen opsummeret
+#+reveal_html: <div style="font-size: 60%;">
+- Opgaverne er kendte på forhånd (men censor har mulighed for at komme med ændringsforslag).
+- Opgaverne skal være bredt formuleret, og skal samlet set dække de faglige mål, kernestof og supplerende stof.
+- Forberedelsestiden er ca. 24 minutter.
+- Eksaminationstiden er ca. 24 minutter.
+  - Ca. 8 minutter: Din fremlæggelse.
+  - Ca. 11 minutter: Faglig samtale.
+  - Ca. 5 minutter: Votering, karaktergivelse og skift af eksaminand.
+- Portfolioen skal inddrage, hvis det er relevant (*Det er det altid!*).
+- Ingen brug af internet! Der vil være lånecomputere uden internetadgang til stede i forberedelsen og til eksamen. Hav jeres materialer(inkl portfolio) med på et usb-stick, eller print det hele ud på forhånd.
+  
+* Bedømmelseskriterier
+#+reveal_html: <div style="font-size: 50%;">
+#+begin_quote
+Bedømmelsen er en vurdering af, i hvilken grad eksaminandens præstation lever op til de faglige mål, som de er angivet i pkt. 2.1.
+
+Der lægges vægt på:
+- fagligt overblik, herunder om eksaminanden kan inddrage relevante og væsentlige astronomiske elementer i den faglige samtale
+- sikkert kendskab til fagets begreber, modeller og metoder, så eksaminanden kan foretage en faglig analyse, herunder gøre rede for den faglige argumentation
+- evnen til at forbinde observationer, data og modeller som grundlag for en faglig refleksion med inddragelse af fagets perspektiver.
+ 
+Der gives én karakter ud fra en helhedsvurdering af den mundtlige præstation.
+#+end_quote
+
+* Faglige mål
+#+reveal_html: <div style="font-size: 40%;">
+#+begin_quote
+Eleverne skal:
+- kunne orientere sig på stjernehimlen og kunne identificere planeter og udvalgte stjernebilleder
+- kunne forklare elementære astronomiske fænomener med udgangspunkt i fænomener som dag og nat, Månens faser, formørkelser, planeternes bevægelse samt årstidernes skiften
+- kunne gøre rede for det moderne astronomiske verdensbillede
+- kunne gøre rede for markante skift i det astronomiske verdensbillede
+- kunne indhente, bearbejde og fortolke astronomiske data
+- have indsigt i anvendelsen af modeller til kvalitativ og kvantitativ beskrivelse af astronomiske fænomener og processer
+- kunne bearbejde en elementær astronomisk tekst og gøre rede for de benyttede faglige begreber og den faglige argumentation
+- kunne søge information om et astronomisk emne fra forskellige kilder og vurdere pålideligheden
+- kunne udvælge og strukturere relevante og centrale astronomiske elementer og kunne formidle astronomiske emner til en udvalgt målgruppe
+- demonstrere viden om fagets identitet og metoder
+- undersøge problemstillinger og udvikle løsninger, hvor fagets metoder anvendes
+- kunne behandle problemstillinger i samspil med andre fag.
+#+end_quote
+
+* Portfolioen
+#+reveal_html: <div style="font-size: 60%;">
+- Portfolioen skal som udgangspunkt inddrages i alle eksamensspørgsmål.
+- På forhånd bør man gøre sig klart, hvilke dele af ens portfolio, der er relevant for hvilke eksamensspørgsmål.
+- Det kan være en god idé at print ens portfolio ud og organisere den, så man nemt kan finde de forskellige produkter deri, så de passer til eksamensspørgsmålene.
+- Det er ens eget ansvar at have portfolioen med, og at man kan vise den frem.
+- Der vil være adgang til computere uden internetadgang til forberedelsen og eksaminationen, så hav jeres portfolio på en usb-pen, eller print de relevante dele ud på forhånd.
+
+  
+* Udnyttelse af tiden
+#+reveal_html: <div style="font-size: 60%;">
+- Opgaverne er kendt på forhånd. Dvs. du kan forberede fremlæggelser til dem alle på forhånd.
+  - Fremlæggelse (slides eller lignende).
+  - Talepapir.
+  - Noter til emnet.
+  - Produkter fra din portfolio, som kan indgå.
+- Inden eksamen bør du læse op på alle emnerne og øve alle fremlæggelserne.
+- Til forberedelsen har du kun ca. 24 minutter. Brug tiden fornuftigt. Afhængig af, hvad du har mest behov for, kan du f.eks. læse dine noter om emnet eller øve fremlæggelsen en sidste gang.
+
+* Antal eksamensspørgsmål
+#+reveal_html: <div style="font-size: 60%;">
+- "Opgaverne skal tilsammen i al væsentlighed dække de falige mål, kernestoffet og det supplerende stof."
+  - Dvs. der er en nedre grænse for antallet af eksamensspørgsmål.
+  - Erfaringsmæssigt er det ca. 10.
+- Hvert eksamensspørgsmål må anvendes op til 3 gange på samme hold (gælder for astronomi) og samtidig skal antallet af eksamensspørgsmål overstige antallet af eksaminander med mindst 3 (gælder generelt).
+  - Dvs. der er også en øvre grænse for antallet af eksamensspørgsmål, der er brug for.
+    $$\text{antal eksamensspørgsmål} = \left( \frac{\text{antal eksaminander} + 3}{3} \right)$$
+- *I år har jeg valgt 10 eksamensspørgsmål, som vil gå igen 2 gange hver, så der i alt er 20 eksamensspørgsmål at trække af*.
+
+  
+* Eksempel på eksamensspørgsmål
+
+#+attr_html: :width 50%
+[[./img/eksamensspoergsmaalseksempel.png]]
+
+* Pensum og UVB
+Pensum kan I læse i UVB'en (undervisningsbeskrivelsen). Den ligger allerede på teams, hvor I også kan finde alle de materialer, vi har arbejdet med.
+
+Husk endeligt at vi også har bogen *Det Levende Univers*. De relevante kapitler og sider kan I finde i UVB'en.
+* Nogen spørgsmål?
+
+* Sæt i gang!
+
+#+attr_html: :width 50%
+[[./img/buzz_lightyear.gif]]
